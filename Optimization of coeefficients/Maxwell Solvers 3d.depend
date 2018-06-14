@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1515664290 source:c:\users\marko\desktop\ba project\maxwell solvers 3d\main3d.cpp
+	<iostream >
+	<math.h>
+	<cstdlib>
+	<fstream>
+	<iomanip>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<vector>
+	<ctime>
+	<algorithm>
+	<iterator>
+	<cmath>
+	"discpp.h"
+	<nlopt.h>
+	<string>
+
+1517999511 c:\dislin\discpp.h
+
+1400589508 c:\users\marko\desktop\nlopt\nlopt.h
+	<stddef.h>
+
+1515664290 source:e:\ba project\maxwell solvers 3d\main3d.cpp
+	<iostream >
+	<math.h>
+	<cstdlib>
+	<fstream>
+	<iomanip>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<vector>
+	<ctime>
+	<algorithm>
+	<iterator>
+	<cmath>
+	"discpp.h"
+	<nlopt.h>
+	<string>
+
+1515667890 source:c:\users\filim\desktop\ba project alt\maxwell solvers 3d\main3d.cpp
+	<iostream >
+	<math.h>
+	<cstdlib>
+	<fstream>
+	<iomanip>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<vector>
+	<ctime>
+	<algorithm>
+	<iterator>
+	<cmath>
+	"discpp.h"
+	<nlopt.h>
+	<string>
+
+1526221310 source:f:\maxwell solvers 3d 100618\main3d.cpp
+	<iostream >
+	<math.h>
+	<cstdlib>
+	<fstream>
+	<iomanip>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<vector>
+	<ctime>
+	<algorithm>
+	<iterator>
+	<cmath>
+	"discpp.h"
+	<nlopt.h>
+	<string>
+
+1528878659 source:c:\users\filim\desktop\backup\optimization of coeefficients\main3d.cpp
+	<iostream >
+	<math.h>
+	<cstdlib>
+	<fstream>
+	<iomanip>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<vector>
+	<ctime>
+	<algorithm>
+	<iterator>
+	<cmath>
+	"discpp.h"
+	<nlopt.h>
+	<string>
+
+1400593108 c:\users\filim\desktop\nlopt\nlopt.h
+	<stddef.h>
+
+1517999511 c:\users\filim\desktop\backup\optimization of coeefficients\discpp.h
+
+1400614708 c:\users\filim\desktop\nlopt64\nlopt.h
+	<stddef.h>
+

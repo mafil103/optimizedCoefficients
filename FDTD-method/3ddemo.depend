@@ -1,0 +1,213 @@
+# depslib dependency file v1.0
+1459933014 source:c:\users\marko\desktop\ba project\kurz puls test\3ddemo\3ddemo.c
+	"fdtd-alloc.h"
+	"fdtd-macro.h"
+	"fdtd-proto.h"
+	"ezinc.h"
+
+1459933014 c:\users\marko\desktop\ba project\kurz puls test\3ddemo\fdtd-alloc.h
+	<stdio.h>
+	<stdlib.h>
+
+1459933014 c:\users\marko\desktop\ba project\kurz puls test\3ddemo\fdtd-macro.h
+	"fdtd-grid.h"
+
+1459933014 c:\users\marko\desktop\ba project\kurz puls test\3ddemo\fdtd-grid.h
+
+1459933014 c:\users\marko\desktop\ba project\kurz puls test\3ddemo\fdtd-proto.h
+	"fdtd-grid.h"
+
+1459933014 c:\users\marko\desktop\ba project\kurz puls test\3ddemo\ezinc.h
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"fdtd-macro.h"
+
+1516291254 source:c:\users\marko\desktop\ba project\kurz puls test\3ddemo\3ddemo.cpp
+	"fdtd-alloc.h"
+	"fdtd-macro.h"
+	"fdtd-proto.h"
+	"ezinc.h"
+
+1459933014 source:c:\users\marko\desktop\ba project\kurz puls test\3ddemo\abc3dfirst.c
+	"fdtd-alloc.h"
+	"fdtd-macro.h"
+
+1459933014 source:c:\users\marko\desktop\ba project\kurz puls test\3ddemo\grid3dhomo.c
+	"fdtd-macro.h"
+	"fdtd-alloc.h"
+	<math.h>
+
+1459933014 source:c:\users\marko\desktop\ba project\kurz puls test\3ddemo\ricker.c
+	"ezinc.h"
+
+1459933014 source:c:\users\marko\desktop\ba project\kurz puls test\3ddemo\snapshot3d.c
+	<stdio.h>
+	<stdlib.h>
+	"fdtd-macro.h"
+
+1459933014 source:c:\users\marko\desktop\ba project\kurz puls test\3ddemo\update3d.c
+	"fdtd-macro.h"
+	<stdio.h>
+
+1459933014 source:c:\users\filim\desktop\ba project\kurz puls test\3ddemo\3ddemo.c
+	"fdtd-alloc.h"
+	"fdtd-macro.h"
+	"fdtd-proto.h"
+	"ezinc.h"
+
+1459933014 c:\users\filim\desktop\ba project\kurz puls test\3ddemo\fdtd-alloc.h
+	<stdio.h>
+	<stdlib.h>
+
+1459933014 c:\users\filim\desktop\ba project\kurz puls test\3ddemo\fdtd-macro.h
+	"fdtd-grid.h"
+
+1459933014 c:\users\filim\desktop\ba project\kurz puls test\3ddemo\fdtd-grid.h
+
+1459933014 c:\users\filim\desktop\ba project\kurz puls test\3ddemo\fdtd-proto.h
+	"fdtd-grid.h"
+
+1459933014 c:\users\filim\desktop\ba project\kurz puls test\3ddemo\ezinc.h
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"fdtd-macro.h"
+
+1516291254 source:c:\users\filim\desktop\ba project\kurz puls test\3ddemo\3ddemo.cpp
+	"fdtd-alloc.h"
+	"fdtd-macro.h"
+	"fdtd-proto.h"
+	"ezinc.h"
+
+1459933014 source:c:\users\filim\desktop\ba project\kurz puls test\3ddemo\abc3dfirst.c
+	"fdtd-alloc.h"
+	"fdtd-macro.h"
+
+1459933014 source:c:\users\filim\desktop\ba project\kurz puls test\3ddemo\grid3dhomo.c
+	"fdtd-macro.h"
+	"fdtd-alloc.h"
+	<math.h>
+
+1459933014 source:c:\users\filim\desktop\ba project\kurz puls test\3ddemo\ricker.c
+	"ezinc.h"
+
+1459933014 source:c:\users\filim\desktop\ba project\kurz puls test\3ddemo\snapshot3d.c
+	<stdio.h>
+	<stdlib.h>
+	"fdtd-macro.h"
+
+1521469630 source:c:\users\filim\desktop\ba project\kurz puls test\3ddemo\update3d.c
+	"fdtd-macro.h"
+	<stdio.h>
+
+1528743722 source:c:\users\filim\desktop\bachelor\ba project\kurz puls test\3ddemo\3ddemo.c
+	"fdtd-alloc.h"
+	"fdtd-macro.h"
+	"fdtd-proto.h"
+	"ezinc.h"
+
+1528742707 c:\users\filim\desktop\bachelor\ba project\kurz puls test\3ddemo\fdtd-alloc.h
+	<stdio.h>
+	<stdlib.h>
+
+1528742741 c:\users\filim\desktop\bachelor\ba project\kurz puls test\3ddemo\fdtd-macro.h
+	"fdtd-grid.h"
+
+1528742925 c:\users\filim\desktop\bachelor\ba project\kurz puls test\3ddemo\fdtd-grid.h
+
+1528742698 c:\users\filim\desktop\bachelor\ba project\kurz puls test\3ddemo\fdtd-proto.h
+	"fdtd-grid.h"
+
+1528742997 c:\users\filim\desktop\bachelor\ba project\kurz puls test\3ddemo\ezinc.h
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"fdtd-macro.h"
+
+1516294854 source:c:\users\filim\desktop\bachelor\ba project\kurz puls test\3ddemo\3ddemo.cpp
+	"fdtd-alloc.h"
+	"fdtd-macro.h"
+	"fdtd-proto.h"
+	"ezinc.h"
+
+1524752798 source:c:\users\filim\desktop\bachelor\ba project\kurz puls test\3ddemo\abc3dfirst.c
+	"fdtd-alloc.h"
+	"fdtd-macro.h"
+
+1528743650 source:c:\users\filim\desktop\bachelor\ba project\kurz puls test\3ddemo\grid3dhomo.c
+	"fdtd-macro.h"
+	"fdtd-alloc.h"
+	<math.h>
+
+1525710195 source:c:\users\filim\desktop\bachelor\ba project\kurz puls test\3ddemo\ricker.c
+	"ezinc.h"
+
+1528743499 source:c:\users\filim\desktop\bachelor\ba project\kurz puls test\3ddemo\snapshot3d.c
+	<stdio.h>
+	<stdlib.h>
+	"fdtd-macro.h"
+
+1528743097 source:c:\users\filim\desktop\bachelor\ba project\kurz puls test\3ddemo\update3d.c
+	"fdtd-macro.h"
+	<stdio.h>
+	<math.h>
+
+1459969014 source:c:\users\filim\desktop\bachelor\ba project\kurz puls test\3ddemo\ezincharm.c
+	"ezinc3.h"
+
+1459969014 c:\users\filim\desktop\bachelor\ba project\kurz puls test\3ddemo\ezinc3.h
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"fdtd3.h"
+
+1459969014 c:\users\filim\desktop\bachelor\ba project\kurz puls test\3ddemo\fdtd3.h
+	<stdio.h>
+	<stdlib.h>
+
+1528743327 source:c:\users\filim\desktop\bachelor\ba project\kurz puls test\3ddemo\source.c
+	"ezinc.h"
+
+1528893748 source:c:\users\filim\desktop\backup\fdtd-method\snapshot3d.c
+	<stdio.h>
+	<stdlib.h>
+	"fdtd-macro.h"
+
+1528815561 c:\users\filim\desktop\backup\fdtd-method\fdtd-macro.h
+	"fdtd-grid.h"
+
+1528815561 c:\users\filim\desktop\backup\fdtd-method\fdtd-grid.h
+
+1528743327 source:c:\users\filim\desktop\backup\fdtd-method\source.c
+	"ezinc.h"
+
+1528742997 c:\users\filim\desktop\backup\fdtd-method\ezinc.h
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"fdtd-macro.h"
+
+1528815344 source:c:\users\filim\desktop\backup\fdtd-method\3ddemo.c
+	"fdtd-alloc.h"
+	"fdtd-macro.h"
+	"fdtd-proto.h"
+	"ezinc.h"
+
+1528815561 c:\users\filim\desktop\backup\fdtd-method\fdtd-alloc.h
+	<stdio.h>
+	<stdlib.h>
+
+1528815344 c:\users\filim\desktop\backup\fdtd-method\fdtd-proto.h
+	"fdtd-grid.h"
+
+1528815344 source:c:\users\filim\desktop\backup\fdtd-method\update3d.c
+	"fdtd-macro.h"
+	<stdio.h>
+	<math.h>
+
+1528815561 source:c:\users\filim\desktop\backup\fdtd-method\grid3dhomo.c
+	"fdtd-macro.h"
+	"fdtd-alloc.h"
+	<math.h>
+
